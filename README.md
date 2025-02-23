@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I am a Software Engineer recently graduated from Franklin & Marshall College<br>🔎 Currently looking for a full time software engineering position<br>📬 Shoot me an email or add me on LinkedIn :)
+👋 I am a Software Engineer graduated from Franklin & Marshall College<br>📬 Shoot me an email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
